@@ -1,5 +1,5 @@
 Kevin Alejandro Vega Medina //
-Nicole Natalia Castillo Abril //
+Nicole Natalia Castillo Abril
 
 # Avance Proyecto de Detección de Monedas y Automatización de Hardware
 
