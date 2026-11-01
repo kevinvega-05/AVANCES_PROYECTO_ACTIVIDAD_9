@@ -1,6 +1,9 @@
-# Proyecto de Detección de Monedas y Automatización de Hardware
+Kevin Alejandro Vega Medina
+Nicole Natalia Castillo Abril
 
-Este repositorio documenta el desarrollo de un sistema integrador que combina visión por computadora para la clasificación de monedas con la implementación física de sistemas electromecánicos de transporte y movilidad.
+# Avance Proyecto de Detección de Monedas y Automatización de Hardware
+
+Este repositorio documenta el desarrollo del proyecto a trabjar, se muestran avances en la detecci´pon de monedas ademas de ciertos avances fisicos.
 
 ## Avances de Software: Visión Artificial
 El código principal del repositorio ejecuta una interfaz de clasificación de monedas en tiempo real.
