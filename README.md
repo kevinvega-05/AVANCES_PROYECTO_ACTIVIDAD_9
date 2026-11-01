@@ -6,6 +6,7 @@ Este repositorio documenta el desarrollo de un sistema integrador que combina vi
 El código principal del repositorio ejecuta una interfaz de clasificación de monedas en tiempo real.
 * **Identificación y Conteo:** El sistema reconoce múltiples denominaciones, contabiliza las unidades y calcula el valor monetario total acumulado (ej. $1.050).
 * **Medición de Objetos:** El software aplica filtros de contorno para aislar las monedas del fondo, logrando medir su diámetro físico aproximado en milímetros (ej. 21.1 mm).
+* ![Interfaz de clasificación](carrito.jpeg)
 
 ## Avances Físicos: Prototipos de Hardware
 La fase práctica del proyecto incluye el ensamblaje de dos componentes mecánicos diseñados para complementar el sistema de software.
